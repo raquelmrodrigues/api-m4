@@ -40,9 +40,6 @@ $ npm install sqlite3
 $ npm run dev:server
 # O servidor inciará na porta:3000 - acesse http://localhost:3000 
 ```
-<p align="center">
-  <a href="" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
 
 ## 🛠 Tecnologias e ferramentas 
 
