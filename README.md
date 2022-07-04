@@ -57,3 +57,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 ## 👨‍💻 Elaborado por:
+
+<table align="center">
+  <tr>
+<td align="center"><a href="https://github.com/raquelmrodrigues"><img src="https://avatars.githubusercontent.com/u/77849954?v=4" width="100px;" alt=""/><br /><sub><b>Raquel</b></sub></a><br /><a href="contribuiçes" title="Documentation">💻​</a></td>
+<td align="center"><a href="https://github.com/Givaona"><img src="https://avatars.githubusercontent.com/u/53412553?v=4" width="100px;" alt=""/><br /><sub><b>Giovana</b></sub></a><br /><a href="contribuiçes" title="Documentation">💻​</a></td>
+<td align="center"><a href="https://github.com/Bea-Araujo"><img src="https://avatars.githubusercontent.com/u/79764497?v=4" width="100px;" alt=""/><br /><sub><b>Bea</b></sub></a><br /><a href="contribuiçes" title="Documentation">💻​</a></td>
+<td align="center"><a href="https://github.com/eduu25"><img src="https://avatars.githubusercontent.com/u/100290358?v=4" width="100px;" alt=""/><br /><sub><b>Eduardo</b></sub></a><br /><a href="contribuiçes" title="Documentation">💻​</a></td>
+ </tr>
+</table>
