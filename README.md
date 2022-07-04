@@ -66,7 +66,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <table>
 
 </table>
-
-## 📝 Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
