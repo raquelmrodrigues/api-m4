@@ -44,7 +44,7 @@ $ npm run dev:server
   <a href="" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias e ferramentas 
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
