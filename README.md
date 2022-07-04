@@ -4,15 +4,15 @@
 </h3>
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Lauracastro27/Projeto-Final-M4?style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/contributors/Lauracastro27/Projeto-Final-M4?style=for-the-badge">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/raquelmrodrigues/api-m4">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/contributors/raquelmrodrigues/api-m4">
 </p>
 
 
-## ⚙️ Funcionalidades
+## 🚀 Funcionalidades
 
 
-## 🚀 Como executar o projeto
+## ⚙️ Como executar o projeto
 
 
 ### Pré-requisitos
@@ -53,8 +53,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[Express](https://expressjs.com/)**
 -   **[SQLite](https://github.com/mapbox/node-sqlite3)**
-
-> Veja o arquivo  [package.json](https://github.com/Lauracastro27/Projeto-Final-M4/package.json)
 
 #### [](https://github.com/Lauracastro27/Projeto-Final-M4)**Utilitários**
 
