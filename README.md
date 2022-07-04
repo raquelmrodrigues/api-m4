@@ -20,7 +20,7 @@ Você vai precisar instalar em sua máquina as seguintes ferramentas:
 
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 
-Também recomendamos que use um editor de texto, nossa recomendação é o VSCode [VSCode](https://code.visualstudio.com/)
+Também é bom que você use um bom editor de texto, nossa recomendação é o VSCode [VSCode](https://code.visualstudio.com/)
 
 #### 🎲 Rodando o Backend (servidor)
 
