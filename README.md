@@ -15,7 +15,7 @@
 ## ⚙️ Como executar o projeto
 
 
-### Pré-requisitos
+### Pré-requisitos e instalações
 Você vai precisar instalar em sua máquina as seguintes ferramentas:
 
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
@@ -44,7 +44,6 @@ $ npm run dev:server
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-
 #### **BACKEND**[](https://github.com/Lauracastro27/Projeto-Final-M4)**Server**  ([NodeJS](https://nodejs.org/en/)  +  [Javascript](https://www.typescriptlang.org/))
 
 -   **[Express](https://expressjs.com/)**
@@ -58,7 +57,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 ## 👨‍💻 Elaborado por:
-
-<table>
-
-</table>
