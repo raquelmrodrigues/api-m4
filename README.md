@@ -1,6 +1,5 @@
 <h3 align="center">
-     API para gestão de uma escola
-
+     API School
 </h3>
 
 <p align="center">
