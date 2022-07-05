@@ -1,6 +1,6 @@
 let id = 0;
 export class Turma{
-    constructor(id_funcionario, id_aluno, mes_inicio, ano_inicio, vagas_alunos){
+    constructor(id_funcionario, id_aluno, mes_inicio, ano_inicio){
         this.id = id++;
         this.id_funcionario = id_funcionario;
         this.id_aluno = id_aluno;
