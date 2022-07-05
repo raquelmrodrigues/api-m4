@@ -1,0 +1,31 @@
+{
+  "name": "api-m4",
+  "version": "1.0.0",
+  "description": "<h3 align=\"center\">\r      API de gestão de uma escola",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raquelmrodrigues/api-m4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raquelmrodrigues/api-m4/issues"
+  },
+  "homepage": "https://github.com/raquelmrodrigues/api-m4#readme",
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "sqlite3": "^5.0.8"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "nodemon": "^2.0.18",
+    "supertest": "^6.2.4"
+  }
+}
