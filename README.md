@@ -7,6 +7,10 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/contributors/raquelmrodrigues/api-m4">
 </p>
 
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/842168897876000788/993952638691450950/bgSchool.jpg"/>
+</div>
+
 
 ## 🚀 Funcionalidades
 
