@@ -14,6 +14,41 @@
 
 ## 🚀 Funcionalidades
 
+ ✅ Cadastro de Alunos:
+
+     - NOME
+     - IDADE
+     - TELEFONE
+     - EMAIL
+     - SENHA
+     - TURMA
+
+ ✅ Cadastro Staff:
+    
+     - CPF
+     - FIRSTNAME
+     - LASTNAME
+     - EMAIL
+     - TELEPHONE
+     - OCCUPATION
+     
+
+ ✅ Cadastro de Turmas:
+
+     - ID
+     - ID_FUNCIONARIO
+     - ID_ALUNO
+     - MES_INICIO
+     - ANO_INICIO
+     
+ ✅ Cadastro de Disciplinas:
+  
+     - ID
+     - NOME
+     - EMENTA
+     - CARGA_HORARIA
+    
+
 
 ## ⚙️ Como executar o projeto
 
