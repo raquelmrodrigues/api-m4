@@ -1,18 +1,12 @@
 import express from "express";
-
-
-const app = express();
-
-// import { aluno } from "./src/controllers/aluno-controller.js";
-const aluno = require("./src/controllers/aluno-controller")
-import { turma } from "./src/controllers/turma-controller.js";
+import { staff } from "./src/controllers/staff-controller.js";
 import { bd } from "./src/infra/bd.js";
 
+const app = express();
 app.use(express.json());
 
-aluno(app, bd);
-turma(app, bd);
+const port = 3000;
 
-app.listen(3333,()=>{
-    console.log("Porta 3333 rodando");
+app.listen(port, () => {
+    console.log(`Porta ${port} rodando`);
 })
