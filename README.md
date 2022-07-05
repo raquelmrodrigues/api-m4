@@ -1,6 +1,5 @@
 <h3 align="center">
-     API de gestão de uma escola
-
+     API School
 </h3>
 
 <p align="center">
@@ -8,8 +7,47 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/contributors/raquelmrodrigues/api-m4">
 </p>
 
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/842168897876000788/993952638691450950/bgSchool.jpg"/>
+</div>
+
 
 ## 🚀 Funcionalidades
+
+ ✅ Cadastro de Alunos:
+
+     - NOME
+     - IDADE
+     - TELEFONE
+     - EMAIL
+     - SENHA
+     - TURMA
+
+ ✅ Cadastro Staff:
+    
+     - CPF
+     - FIRSTNAME
+     - LASTNAME
+     - EMAIL
+     - TELEPHONE
+     - OCCUPATION
+     
+
+ ✅ Cadastro de Turmas:
+
+     - ID
+     - ID_FUNCIONARIO
+     - ID_ALUNO
+     - MES_INICIO
+     - ANO_INICIO
+     
+ ✅ Cadastro de Disciplinas:
+  
+     - ID
+     - NOME
+     - EMENTA
+     - CARGA_HORARIA
+    
 
 
 ## ⚙️ Como executar o projeto

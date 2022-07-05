@@ -10,9 +10,6 @@ app.use(express.json());
 
 const port = 3000;
 
-// staff(app, bd);
-// aluno(app, bd);
-// turma(app,bd);
 
 app.listen(port, () => {
     console.log(`Porta ${port} rodando`);
